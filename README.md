@@ -1,4 +1,4 @@
-
+[![](https://raw.githubusercontent.com/DefectingCat/DefectingCat/master/Sensei_dark.png)](https://www.defectink.com)
 
 <!--
 ### Hi there 👋
