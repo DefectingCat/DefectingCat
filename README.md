@@ -23,6 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [原生图片懒加载](https://www.defectink.com/defect/javascript-lazy-loading-image.html)
+- [JavaScript 装饰器模式🎊](https://www.defectink.com/defect/javascript-decorator.html)
+- [踩坑记录-Win10远程桌面密码错误](https://www.defectink.com/defect/win10-remote-desktop-password-incorrect.html)
+- [移动端触摸轮播图](https://www.defectink.com/defect/mobile-slidershow.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
