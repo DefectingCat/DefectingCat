@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [guguMall](https://github.com/DefectingCat/gugu-mall)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DefectingCat?tab=repositories](https://github.com/DefectingCat?tab=repositories)
+- 👨‍💻 Other repositories [Gitea](https://git.defectink.com/)
 
 - 📝 I regularly write articles on [https://xfy.plus/](https://xfy.plus/)
 
@@ -15,11 +15,7 @@
 
 - 📫 How to reach me **i@defect.ink**
 
-- 📄 Know about my experiences [https://xfy.plus/about/](https://xfy.plus/about/)
-
 - ⚡ Fun fact **嘤**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=defectingcat" alt="defectingcat" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
