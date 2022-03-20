@@ -6,6 +6,6 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Defectink" alt="defectingcat" />
-</div>
+</div> -->
