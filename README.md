@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">I have a plan. Tahiti!</h3>
+<h1 align="center">RUA!</h1>
+<h3 align="center">rua rua rua</h3>
 
 <div align="center">
   <img src="https://count.getloli.com/get/@:xxfy">
